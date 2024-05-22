@@ -1,5 +1,5 @@
 # 💫 About Me:
-Shreyas Waghe<br><br>CS + Applied Math @ UMass Amherst (Dec 2024).<br> I'm interested in all manner of things Computational and Applied Math-y.
+CS + Applied Math @ UMass Amherst (Dec 2024).<br> I'm interested in all manner of things Computational and Applied Math-y.
 
 <br>Currently : Scientific Computing & HPC Intern @ Pfizer, working on Quantum Algorithms.
 <br>Currently : Completing a thesis on biophysical mechanisms of embryo specialization (parasympathetic ganglion formation).
