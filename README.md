@@ -2,7 +2,7 @@
 CS + Applied Math @ UMass Amherst (Dec 2024).<br> I'm interested in all manner of things Computational and Applied Math-y.
 
 <br>Currently : Scientific Computing & HPC Intern @ Pfizer, working on Quantum Algorithms.
-<br>Currently : Completing a thesis on biophysical mechanisms of embryo specialization (parasympathetic ganglion formation).
+<br>Currently : Completing a thesis on biophysical mechanisms of collective cell migration.
 <br>Prev : ML Research @ BrownU, Fair ML + Cvx Opt Research @ UMass, Stat Phys @ UMass.
 
 <br><br>Reach out : shreyaswaghe12@gmail.com
