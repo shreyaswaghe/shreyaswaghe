@@ -1,5 +1,5 @@
 # 💫 About Me:
-MS CS @ UMass Amherst
+MS CS @ UMass Amherst <br>
 BS CS + BS Applied Math @ UMass Amherst.
 <br> 
 I'm interested in all manner of things Computational and Applied Math-y.
