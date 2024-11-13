@@ -1,13 +1,12 @@
 # 💫 About Me:
-Incoming Computational Science Research Associate at Flexcompute Inc.
-<br>
+MS CS @ UMass Amherst
 BS CS + BS Applied Math @ UMass Amherst.
 <br> 
 I'm interested in all manner of things Computational and Applied Math-y.
 
 <br>Currently : Scientific Computing & HPC Intern @ Pfizer, working on Quantum Algorithms.
-<br>Currently : Completing a thesis on biophysical mechanisms of collective cell migration.
-<br>Prev : ML Research @ BrownU, Fair ML + Cvx Opt Research @ UMass, Stat Phys @ UMass.
+<br>Currently : Completing a thesis on cell-cell communication mechanisms for collective migration.
+<br>Prev : ML Research @ BrownU, Fair ML + Cvx Opt Research @ UMass
 
 <br><br>Reach out : shreyaswaghe12@gmail.com
 
