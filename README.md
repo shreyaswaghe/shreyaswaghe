@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm interested in Applied Math - Scientific Computing & Mathematical Biology <br>
-See more here [shreyasw.com](www.shreyasw.com)
+See more here [shreyasw.com](https://www.shreyasw.com)
 
 
 ## 🌐 Socials:
