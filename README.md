@@ -1,10 +1,9 @@
 # 💫 About Me:
 I'm interested in Applied Math - Scientific Computing & Mathematical Biology <br>
-
+See more here [](www.shreyasw.com)
 
 
 ## 🌐 Socials:
-[![Website](www.shreyasw.com)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyaswaghe) 
 
 # 📊 GitHub Stats:
