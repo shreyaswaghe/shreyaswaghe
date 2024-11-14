@@ -1,17 +1,10 @@
 # 💫 About Me:
-MS CS @ UMass Amherst <br>
-BS CS + BS Applied Math @ UMass Amherst.
-<br> 
-I'm interested in all manner of things Computational and Applied Math-y.
+I'm interested in Applied Math - Scientific Computing & Mathematical Biology <br>
 
-<br>Currently : Scientific Computing & HPC Intern @ Pfizer, working on Quantum Algorithms.
-<br>Currently : Completing a thesis on cell-cell communication mechanisms for collective migration.
-<br>Prev : ML Research @ BrownU, Fair ML + Cvx Opt Research @ UMass
-
-<br><br>Reach out : shreyaswaghe12@gmail.com
 
 
 ## 🌐 Socials:
+[![Website](www.shreyasw.com)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyaswaghe) 
 
 # 📊 GitHub Stats:
